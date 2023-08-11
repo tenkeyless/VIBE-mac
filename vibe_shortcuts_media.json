@@ -1,0 +1,47 @@
+[
+  {
+    "key": "MediaPlayPause",
+    "inputEvents": [
+      {
+        "type": "keyDown",
+        "keyCode": "P"
+      }
+    ]
+  },
+  {
+    "key": "MediaPreviousTrack",
+    "inputEvents": [
+      {
+        "type": "keyDown",
+        "keyCode": "["
+      }
+    ]
+  },
+  {
+    "key": "MediaNextTrack",
+    "inputEvents": [
+      {
+        "type": "keyDown",
+        "keyCode": "]"
+      }
+    ]
+  },
+  {
+    "key": "Control+Shift+1",
+    "inputEvents": [
+      {
+        "type": "keyDown",
+        "keyCode": "J"
+      }
+    ]
+  },
+  {
+    "key": "Control+Shift+2",
+    "inputEvents": [
+      {
+        "type": "keyDown",
+        "keyCode": "N"
+      }
+    ]
+  }
+]
